@@ -12,7 +12,7 @@ class Xiaojiejie extends Component{
     render(){
         return(
             <Fragment>
-               
+               asdasdasdasdasd
                 <div>
                     <input value = {this.state.inputValue} onChange={this.inputChange.bind(this)}/>
                     <button onClick = {this.addList.bind(this)}>增加服务</button>
