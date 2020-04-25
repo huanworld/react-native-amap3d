@@ -8,6 +8,7 @@ class Xiaojiejie extends Component{
             list:['基础按摩','精油推背']
         }
     }
+    zzzzzzzzzzzzzzzzz
 
     render(){
         return(
